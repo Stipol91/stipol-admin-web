@@ -1,1 +1,0 @@
-# stipol-admin-web
